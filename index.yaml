@@ -1,0 +1,20 @@
+apiVersion: v1
+entries:
+  prometheus-net-discovery:
+  - apiVersion: v2
+    appVersion: v1.3.3
+    created: "2021-06-02T12:09:34.176683617Z"
+    description: A Helm chart for prometheus-net-discovery
+    digest: 70ddc39d6c4fdaf28da77ab55abfc6abaed8db8384844d4ad73f286a2521b709
+    keywords:
+    - prometheus-net-discovery
+    - prometheus
+    maintainers:
+    - email: richard.steinbrueck@gmail.com
+      name: steinbrueckri
+    name: prometheus-net-discovery
+    type: application
+    urls:
+    - https://github.com/steinbrueckri/prometheus-net-discovery/releases/download/prometheus-net-discovery-v1.3.4/prometheus-net-discovery-v1.3.4.tgz
+    version: v1.3.4
+generated: "2021-06-02T12:09:34.176689117Z"
